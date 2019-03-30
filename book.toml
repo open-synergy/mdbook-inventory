@@ -1,0 +1,5 @@
+[book]
+authors = ["Andhitia Rama"]
+multilingual = false
+src = "src"
+title = "Odoo - Inventory"

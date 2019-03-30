@@ -1,0 +1,1 @@
+# Mengecek Ketersediaan Scrap

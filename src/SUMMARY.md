@@ -1,5 +1,7 @@
 # Summary
 
+[Pra-Kata](./prakata.md)
+[Terminologi](./terminologi.md)
 - [Transaksi](./transaksi.md)
     - [Goods Receipt](./transaksi/goods-receipt.md)
         - [Penjelasan Goods Receipt](./transaksi/goods-receipt/penjelasan.md)

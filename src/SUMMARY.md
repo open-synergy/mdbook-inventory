@@ -73,7 +73,6 @@
         - [Merestart Pick](./transaksi/pick/restart.md)
     - [Pack](./transaksi/pack.md)
         - [Penjelasan Pack](./transaksi/pack/penjelasan.md)
-        - [Membuat Pack](./transaksi/pack/membuat.md)
         - [Konfirmasi Pack](./transaksi/pack/konfirmasi.md)
         - [Mengecek Ketersediaan Pack](./transaksi/pack/check.md)
         - [Merealisasi Pack](./transaksi/pack/transfer.md)

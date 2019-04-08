@@ -46,7 +46,6 @@
         - [Penjelasan Adjustment In](./transaksi/adjustment-in/penjelasan.md)
         - [Membuat Adjustment In](./transaksi/adjustment-in/membuat.md)
         - [Konfirmasi Adjustment In](./transaksi/adjustment-in/konfirmasi.md)
-        - [Mengecek Ketersediaan Adjustment In](./transaksi/adjustment-in/check.md)
         - [Merealisasi Adjustment In](./transaksi/adjustment-in/transfer.md)
         - [Membatalkan Adjustment In](./transaksi/adjustment-in/batal.md)
         - [Merestart Adjustment In](./transaksi/adjustment-in/restart.md)    

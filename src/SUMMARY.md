@@ -23,7 +23,6 @@
         - [Penjelasan Supplier Promotion](./transaksi/supplier-promotion/penjelasan.md)
         - [Membuat Supplier Promotion](./transaksi/supplier-promotion/membuat.md)
         - [Konfirmasi Supplier Promotion](./transaksi/supplier-promotion/konfirmasi.md)
-        - [Mengecek Ketersediaan Supplier Promotion](./transaksi/supplier-promotion/check.md)
         - [Merealisasi Supplier Promotion](./transaksi/supplier-promotion/transfer.md)
         - [Membatalkan Supplier Promotion](./transaksi/supplier-promotion/batal.md)
         - [Merestart Supplier Promotion](./transaksi/supplier-promotion/restart.md)

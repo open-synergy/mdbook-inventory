@@ -53,7 +53,6 @@
         - [Penjelasan Other Receipt](./transaksi/other-receipt/penjelasan.md)
         - [Membuat Other Receipt](./transaksi/other-receipt/membuat.md)
         - [Konfirmasi Other Receipt](./transaksi/other-receipt/konfirmasi.md)
-        - [Mengecek Ketersediaan Other Receipt](./transaksi/other-receipt/check.md)
         - [Merealisasi Other Receipt](./transaksi/other-receipt/transfer.md)
         - [Membatalkan Other Receipt](./transaksi/other-receipt/batal.md)
         - [Merestart Other Receipt](./transaksi/other-receipt/restart.md)    

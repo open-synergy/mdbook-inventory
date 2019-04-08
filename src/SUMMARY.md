@@ -66,7 +66,6 @@
         - [Merestart Internal Transfer](./transaksi/internal-transfer/restart.md)
     - [Pick](./transaksi/pick.md)
         - [Penjelasan Pick](./transaksi/pick/penjelasan.md)
-        - [Membuat Pick](./transaksi/pick/membuat.md)
         - [Konfirmasi Pick](./transaksi/pick/konfirmasi.md)
         - [Mengecek Ketersediaan Pick](./transaksi/pick/check.md)
         - [Merealisasi Pick](./transaksi/pick/transfer.md)

@@ -1,7 +1,6 @@
 # Pick
 
 - [Penjelasan Pick](./pick/penjelasan.md)
-- [Membuat Pick](./pick/membuat.md)
 - [Konfirmasi Pick](./pick/konfirmasi.md)
 - [Mengecek Ketersediaan Pick](./pick/check.md)
 - [Merealisasi Pick](./pick/transfer.md)

@@ -3,7 +3,7 @@
 ## A. INPUT
 
 * Data RMA supplier in yang akan direstart harus memiliki status **Cancelled**.
-* User yang akan membatalkan harus memiliki akses untuk merestart RMA supplier in.
+* User yang akan merestart harus memiliki akses untuk merestart RMA supplier in.
 
 ## B. LANGKAH KERJA
 

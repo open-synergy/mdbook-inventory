@@ -3,7 +3,7 @@
 ## A. INPUT
 
 * Data supplier promotion yang akan direstart harus memiliki status **Cancelled**.
-* User yang akan membatalkan harus memiliki akses untuk merestart supplier promotion.
+* User yang akan merestart harus memiliki akses untuk merestart supplier promotion.
 
 ## B. LANGKAH KERJA
 

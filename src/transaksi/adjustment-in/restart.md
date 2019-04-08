@@ -3,7 +3,7 @@
 ## A. INPUT
 
 * Data adjustment in yang akan direstart harus memiliki status **Cancelled**.
-* User yang akan membatalkan harus memiliki akses untuk merestart adjustment in.
+* User yang akan merestart harus memiliki akses untuk merestart adjustment in.
 
 ## B. LANGKAH KERJA
 

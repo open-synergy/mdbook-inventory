@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data inter-warehouse in yang akan direstart harus memiliki status **Draft**.
+* Data inter-warehouse in yang akan dikonfirmasi harus memiliki status **Draft**.
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi inter-warehouse in.
 
 ## B. LANGKAH KERJA

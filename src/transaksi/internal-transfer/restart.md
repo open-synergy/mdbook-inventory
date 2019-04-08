@@ -3,7 +3,7 @@
 ## A. INPUT
 
 * Data internal transfer yang akan direstart harus memiliki status **Cancelled**.
-* User yang akan membatalkan harus memiliki akses untuk merestart internal transfer.
+* User yang akan merestart harus memiliki akses untuk merestart internal transfer.
 
 ## B. LANGKAH KERJA
 

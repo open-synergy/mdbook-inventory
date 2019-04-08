@@ -3,7 +3,7 @@
 ## A. INPUT
 
 * Data RMA customer in yang akan direstart harus memiliki status **Cancelled**.
-* User yang akan membatalkan harus memiliki akses untuk merestart RMA customer in.
+* User yang akan merestart harus memiliki akses untuk merestart RMA customer in.
 
 ## B. LANGKAH KERJA
 

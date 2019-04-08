@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data internal transfer yang akan direstart harus memiliki status **Draft**.
+* Data internal transfer yang akan dikonfirmasi harus memiliki status **Draft**.
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi internal transfer.
 
 ## B. LANGKAH KERJA

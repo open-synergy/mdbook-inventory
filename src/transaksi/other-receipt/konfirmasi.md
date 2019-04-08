@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data other receipt yang akan direstart harus memiliki status **Draft**.
+* Data other receipt yang akan dikonfirmasi harus memiliki status **Draft**.
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi other receipt.
 
 ## B. LANGKAH KERJA

@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data supplier promotion yang akan direstart harus memiliki status **Draft**.
+* Data supplier promotion yang akan dikonfirmasi harus memiliki status **Draft**.
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi supplier promotion.
 
 ## B. LANGKAH KERJA

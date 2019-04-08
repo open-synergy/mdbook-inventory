@@ -3,7 +3,7 @@
 ## A. INPUT
 
 * Data other receipt yang akan direstart harus memiliki status **Cancelled**.
-* User yang akan membatalkan harus memiliki akses untuk merestart other receipt.
+* User yang akan merestart harus memiliki akses untuk merestart other receipt.
 
 ## B. LANGKAH KERJA
 

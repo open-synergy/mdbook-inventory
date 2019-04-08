@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data RMA supplier in yang akan direstart harus memiliki status **Draft**.
+* Data RMA supplier in yang akan dikonfirmasi harus memiliki status **Draft**.
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi RMA supplier in.
 
 ## B. LANGKAH KERJA

@@ -3,7 +3,7 @@
 ## A. INPUT
 
 * Data goods receipt yang akan direstart harus memiliki status **Cancelled**.
-* User yang akan membatalkan harus memiliki akses untuk merestart goods receipt.
+* User yang akan merestart harus memiliki akses untuk merestart goods receipt.
 
 ## B. LANGKAH KERJA
 

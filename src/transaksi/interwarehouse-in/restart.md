@@ -3,7 +3,7 @@
 ## A. INPUT
 
 * Data inter-warehouse in yang akan direstart harus memiliki status **Cancelled**.
-* User yang akan membatalkan harus memiliki akses untuk merestart inter-warehouse in.
+* User yang akan merestart harus memiliki akses untuk merestart inter-warehouse in.
 
 ## B. LANGKAH KERJA
 

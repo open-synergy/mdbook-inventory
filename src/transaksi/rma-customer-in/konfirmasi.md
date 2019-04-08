@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data RMA customer in yang akan direstart harus memiliki status **Draft**.
+* Data RMA customer in yang akan dikonfirmasi harus memiliki status **Draft**.
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi RMA customer in.
 
 ## B. LANGKAH KERJA

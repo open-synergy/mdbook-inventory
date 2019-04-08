@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data adjusmtnet in yang akan direstart harus memiliki status **Draft**.
+* Data adjusmtnet in yang akan dikonfirmasi harus memiliki status **Draft**.
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi adjustment in.
 
 ## B. LANGKAH KERJA

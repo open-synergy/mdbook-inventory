@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data consume yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data consume yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi consume.
 
 ## B. LANGKAH KERJA

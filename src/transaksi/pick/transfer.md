@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data pick yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data pick yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi pick.
 
 ## B. LANGKAH KERJA

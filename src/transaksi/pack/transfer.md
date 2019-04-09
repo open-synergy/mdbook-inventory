@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data pack yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data pack yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi pack.
 
 ## B. LANGKAH KERJA

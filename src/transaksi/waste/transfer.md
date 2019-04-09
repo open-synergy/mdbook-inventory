@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data waste yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data waste yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi waste.
 
 ## B. LANGKAH KERJA

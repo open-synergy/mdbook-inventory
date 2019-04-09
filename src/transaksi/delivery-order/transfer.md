@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data delivery order yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data delivery order yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi delivery order.
 
 ## B. LANGKAH KERJA

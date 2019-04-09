@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data RMA customer in yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data RMA customer in yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi RMA customer in.
 
 ## B. LANGKAH KERJA

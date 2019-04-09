@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data customer reception yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data customer reception yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi customer reception.
 
 ## B. LANGKAH KERJA

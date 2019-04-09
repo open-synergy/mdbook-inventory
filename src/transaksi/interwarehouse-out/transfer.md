@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data inter-warehouse out yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data inter-warehouse out yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi inter-warehouse out.
 
 ## B. LANGKAH KERJA

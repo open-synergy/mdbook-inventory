@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data adjustment out yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data adjustment out yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi adjustment out.
 
 ## B. LANGKAH KERJA

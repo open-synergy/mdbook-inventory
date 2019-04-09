@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data RMA supplier in yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data RMA supplier in yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi RMA supplier in.
 
 ## B. LANGKAH KERJA

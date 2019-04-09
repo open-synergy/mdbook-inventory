@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data supplier promotion yang akan direalisasi harus memiliki status **Ready To Trasfer**.
+* Data supplier promotion yang akan direalisasi harus memiliki status **Ready To Transfer**.
 * User yang akan merealisasi harus memiliki akses untuk merealisasi supplier promotion.
 
 ## B. LANGKAH KERJA

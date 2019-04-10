@@ -9,6 +9,7 @@
         - [Konfirmasi Goods Receipt](./transaksi/goods-receipt/konfirmasi.md)
         - [Merealisasi Goods Receipt](./transaksi/goods-receipt/transfer.md)
             - [Merealisasi Product Goods Receipt](./transaksi/goods-receipt/transfer-product.md)
+        - [Membuat Supplier Invoice Dari Goods Receipt](./transaksi/goods-receipt/invoice.md)
         - [Membatalkan Goods Receipt](./transaksi/goods-receipt/batal.md)
         - [Merestart Goods Receipt](./transaksi/goods-receipt/restart.md)
     - [Inter-Warehouse In](./transaksi/interwarehouse-in.md)

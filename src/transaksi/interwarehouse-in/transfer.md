@@ -34,4 +34,3 @@ Pop-up **Enter Transfer Detail** akan muncul
 * Status dari inter-warehouse in akan berubah menjadi **Transfered**
 
 ![](../../img/interwarehouse-in/status-transfered.png)
-

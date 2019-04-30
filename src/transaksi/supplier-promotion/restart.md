@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data supplier promotion yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/supplier-promotion/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart supplier promotion.
 
 ## B. LANGKAH KERJA

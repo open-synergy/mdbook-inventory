@@ -7,8 +7,7 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Warehouse -> Operation -> (Nama Gudang) -> RMA Customer In**. Abaikan jika sudah berada
-pada menu yang dimaksud.
+1. Buka menu **Warehouse -> Operation -> (Nama Gudang) -> RMA Customer In**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data RMA customer in yang akan dibatalkan. Abaikan jika data sudah dibuka.
 3. Klik tombol **Cancel Transfer** pada bagian atas-kiri form.
 

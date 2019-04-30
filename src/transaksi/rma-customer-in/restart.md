@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data RMA customer in yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/rma-customer-in/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart RMA customer in.
 
 ## B. LANGKAH KERJA

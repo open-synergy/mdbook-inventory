@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data adjusmtnet in yang akan dikonfirmasi harus memiliki status **Draft**.
+
+![](../../img/interwarehouse-in/status-draft.png)
+
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi adjustment in.
 
 ## B. LANGKAH KERJA

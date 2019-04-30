@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data adjustment in yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/adjustment-in/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart adjustment in.
 
 ## B. LANGKAH KERJA

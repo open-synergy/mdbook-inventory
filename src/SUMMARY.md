@@ -69,6 +69,7 @@
         - [Menghapus Produk Pada Adjustment In](./transaksi/adjustment-in/produk-hapus.md)
         - [Konfirmasi Adjustment In](./transaksi/adjustment-in/konfirmasi.md)
         - [Merealisasi Adjustment In](./transaksi/adjustment-in/transfer.md)
+        - [Merealisasi Produk Pada Adjustment In](./transaksi/adjustment-in/transfer-produk.md)
         - [Membatalkan Adjustment In](./transaksi/adjustment-in/batal.md)
         - [Merestart Adjustment In](./transaksi/adjustment-in/restart.md)    
     - [Other Receipt](./transaksi/other-receipt.md)

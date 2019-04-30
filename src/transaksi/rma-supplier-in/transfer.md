@@ -2,7 +2,12 @@
 
 ## A. INPUT
 
-* Data RMA supplier in yang akan direalisasi harus memiliki status **Ready To Transfer**.
+* Data RMA supplier in yang akan direalisasi harus memiliki status **Ready To Transfer** atau **Partially Available**
+
+![](../../img/rma-supplier-in/status-ready-to-transfer.png)
+
+![](../../img/rma-supplier-in/status-partial.png)
+
 * User yang akan merealisasi harus memiliki akses untuk merealisasi RMA supplier in.
 
 ## B. LANGKAH KERJA
@@ -20,12 +25,8 @@ Pop-up **Enter Transfer Detail** akan muncul
 ![](../../img/rma-supplier-in/pop-up-enter-transfer-detail.png)
 
 4. Isi **Actual Movement Date**.
-5. Untuk setiap produk yang terdapat pada tabel **Product To Move** lakukan prosedur [Realisasi Produk](./transfer-product.md).
-6. Apabila serial number ingin dibuat secara otomatis klik tombol **Generate Lot**
-
-![](../../img/rma-supplier-in/tombol-generate-lot.png)
-
-7. Klik tombol **Apply** pada bagian bawah-kiri form
+5. <a name="l5">Untuk</a> setiap produk yang terdapat pada tabel **Product To Move** lakukan prosedur [Realisasi Produk](./transfer-produk.md).
+6. Klik tombol **Apply** pada bagian bawah-kiri form
 
 ![](../../img/rma-supplier-in/tombol-apply-transfer-detail.png)
 

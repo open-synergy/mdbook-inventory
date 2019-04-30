@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data RMA supplier in yang akan dicek harus memiliki status **Waiting Availability**.
+
+![](../../img/rma-supplier-in/status-waiting.png)
+
 * User yang akan mengecek harus memiliki akses untuk mengecek RMA supplier in.
 
 ## B. LANGKAH KERJA
@@ -14,12 +17,16 @@ pada menu yang dimaksud.
 
 ![](../../img/rma-supplier-in/tombol-check.png)
 
-4. Klik tombol **Force Availability** pada bagian atas-tengah form apabila user ingin mengabaikan proses pengecekan.
-
-![](../../img/rma-supplier-in/tombol-force.png)
-
 ## C. OUTPUT
 
-* Status dari RMA supplier in akan berubah menjadi **Ready To Transfer**
+* Status dari RMA supplier in akan berubah menjadi **Ready To Transfer** apabila semua produk tersedia.
 
 ![](../../img/rma-supplier-in/status-ready-to-transfer.png)
+
+* Status dari RMA supplier in akan berubah menjadi **Partially Available** apabila hanya sebagian produk yang tersedia.
+
+![](../../img/rma-supplier-in/status-partial.png)
+
+* Status dari RMA supplier in tetap **Waiting Availability** apabila produk tidak tersedia.
+
+![](../../img/rma-supplier-in/status-waiting.png)

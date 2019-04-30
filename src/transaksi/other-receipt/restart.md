@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data other receipt yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/other-receipt/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart other receipt.
 
 ## B. LANGKAH KERJA

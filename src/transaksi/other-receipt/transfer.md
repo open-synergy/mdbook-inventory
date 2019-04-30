@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data other receipt yang akan direalisasi harus memiliki status **Ready To Transfer**.
+
+![](../../img/other-receipt/status-ready-to-transfer.png)
+
 * User yang akan merealisasi harus memiliki akses untuk merealisasi other receipt.
 
 ## B. LANGKAH KERJA
@@ -20,7 +23,7 @@ Pop-up **Enter Transfer Detail** akan muncul
 ![](../../img/other-receipt/pop-up-enter-transfer-detail.png)
 
 4. Isi **Actual Movement Date**.
-5. Untuk setiap produk yang terdapat pada tabel **Product To Move** lakukan prosedur [Realisasi Produk](./transfer-product.md).
+5. Untuk setiap produk yang terdapat pada tabel **Product To Move** lakukan prosedur [Realisasi Produk](./transfer-produk.md).
 6. Apabila serial number ingin dibuat secara otomatis klik tombol **Generate Lot**
 
 ![](../../img/other-receipt/tombol-generate-lot.png)
@@ -34,4 +37,3 @@ Pop-up **Enter Transfer Detail** akan muncul
 * Status dari other receipt akan berubah menjadi **Transfered**
 
 ![](../../img/other-receipt/status-transfered.png)
-

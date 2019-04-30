@@ -82,6 +82,7 @@
         - [Menghapus Produk Pada Other Receipt](./transaksi/other-receipt/produk-hapus.md)
         - [Konfirmasi Other Receipt](./transaksi/other-receipt/konfirmasi.md)
         - [Merealisasi Other Receipt](./transaksi/other-receipt/transfer.md)
+        - [Merealisasi Produk Pada Other Receipt](./transaksi/other-receipt/transfer-produk.md)
         - [Membatalkan Other Receipt](./transaksi/other-receipt/batal.md)
         - [Merestart Other Receipt](./transaksi/other-receipt/restart.md)    
     - [Internal Transfer](./transaksi/internal-transfer.md)

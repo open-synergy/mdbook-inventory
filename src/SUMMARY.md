@@ -36,6 +36,7 @@
         - [Memodifikasi Produk Pada Supplier Promotion](./transaksi/supplier-promotion/produk-modifikasi.md)
         - [Menghapus Produk Pada Supplier Promotion](./transaksi/supplier-promotion/produk-hapus.md)
         - [Konfirmasi Supplier Promotion](./transaksi/supplier-promotion/konfirmasi.md)
+        - [Mengecek Ketersediaan Supplier Promotion](./transaksi/supplier-promotion/check.md)
         - [Merealisasi Supplier Promotion](./transaksi/supplier-promotion/transfer.md)
         - [Merealisasi Produk Pada Supplier Promotion](./transaksi/supplier-promotion/transfer-produk.md)
         - [Membatalkan Supplier Promotion](./transaksi/supplier-promotion/batal.md)

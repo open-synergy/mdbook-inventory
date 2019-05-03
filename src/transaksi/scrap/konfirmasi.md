@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data scrap yang akan dikonfirmasi harus memiliki status **Draft**.
+
+![](../../img/scrap/status-draft.png)
+
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi scrap.
 
 ## B. LANGKAH KERJA
@@ -19,4 +22,3 @@ pada menu yang dimaksud.
 * Status dari scrap akan berubah menjadi **Waiting Availability**
 
 ![](../../img/scrap/status-waiting.png)
-

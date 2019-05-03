@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data scrap yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/scrap/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart scrap.
 
 ## B. LANGKAH KERJA

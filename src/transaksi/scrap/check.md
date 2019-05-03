@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data scrap yang akan dicek harus memiliki status **Waiting Availability**.
+
+![](../../img/scrap/status-waiting.png)
+
 * User yang akan mengecek harus memiliki akses untuk mengecek scrap.
 
 ## B. LANGKAH KERJA
@@ -14,12 +17,16 @@ pada menu yang dimaksud.
 
 ![](../../img/scrap/tombol-check.png)
 
-4. Klik tombol **Force Availability** pada bagian atas-tengah form apabila user ingin mengabaikan proses pengecekan.
-
-![](../../img/scrap/tombol-force.png)
-
 ## C. OUTPUT
 
-* Status dari scrap akan berubah menjadi **Ready To Transfer**
+* Status dari Scrap akan berubah menjadi **Ready To Transfer** apabila semua produk tersedia.
 
 ![](../../img/scrap/status-ready-to-transfer.png)
+
+* Status dari Scrap akan berubah menjadi **Partially Available** apabila hanya sebagian produk yang tersedia.
+
+![](../../img/scrap/status-partial.png)
+
+* Status dari Scrap tetap **Waiting Availability** apabila produk tidak tersedia.
+
+![](../../img/scrap/status-waiting.png)

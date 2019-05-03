@@ -145,6 +145,7 @@
         - [Mengecek Ketersediaan Scrap](./transaksi/scrap/check.md)
         - [Memaksa Ketersediaan Scrap](./transaksi/scrap/force.md)
         - [Merealisasi Scrap](./transaksi/scrap/transfer.md)
+        - [Merealisasi Produk Pada Scrap](./transaksi/scrap/transfer-produk.md)
         - [Membatalkan Scrap](./transaksi/scrap/batal.md)
         - [Merestart Scrap](./transaksi/scrap/restart.md)
     - [Consume](./transaksi/consume.md)

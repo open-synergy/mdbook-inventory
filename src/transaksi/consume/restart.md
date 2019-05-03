@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data consume yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/consume/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart consume.
 
 ## B. LANGKAH KERJA

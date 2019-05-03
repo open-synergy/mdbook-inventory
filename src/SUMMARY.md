@@ -160,6 +160,7 @@
         - [Mengecek Ketersediaan Consume](./transaksi/consume/check.md)
         - [Memaksa Ketersediaan Consume](./transaksi/consume/force.md)
         - [Merealisasi Consume](./transaksi/consume/transfer.md)
+        - [Merealisasi Produk Pada Consume](./transaksi/consume/transfer-produk.md)
         - [Membatalkan Consume](./transaksi/consume/batal.md)
         - [Merestart Consume](./transaksi/consume/restart.md)
     - [Delivery Order](./transaksi/delivery-order.md)

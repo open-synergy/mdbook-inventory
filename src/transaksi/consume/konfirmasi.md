@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data consume yang akan dikonfirmasi harus memiliki status **Draft**.
+
+![](../../img/consume/status-draft.png)
+
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi consume.
 
 ## B. LANGKAH KERJA

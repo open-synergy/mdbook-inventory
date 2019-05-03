@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data internal transfer yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/internal-transfer/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart internal transfer.
 
 ## B. LANGKAH KERJA

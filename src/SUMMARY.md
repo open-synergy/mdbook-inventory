@@ -97,6 +97,7 @@
         - [Mengecek Ketersediaan Internal Transfer](./transaksi/internal-transfer/check.md)
         - [Memaksa Ketersediaan Internal Transfer](./transaksi/internal-transfer/force.md)
         - [Merealisasi Internal Transfer](./transaksi/internal-transfer/transfer.md)
+        - [Merealisasi Produk Pada Internal Transfer](./transaksi/internal-transfer/transfer-produk.md)
         - [Membatalkan Internal Transfer](./transaksi/internal-transfer/batal.md)
         - [Merestart Internal Transfer](./transaksi/internal-transfer/restart.md)
     - [Pick](./transaksi/pick.md)

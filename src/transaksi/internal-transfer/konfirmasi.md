@@ -3,12 +3,14 @@
 ## A. INPUT
 
 * Data internal transfer yang akan dikonfirmasi harus memiliki status **Draft**.
+
+![](../../img/internal-transfer/status-draft.png)
+
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi internal transfer.
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Warehouse -> Operation -> (Nama Gudang) -> Internal Transfer**. Abaikan jika sudah berada
-pada menu yang dimaksud.
+1. Buka menu **Warehouse -> Operation -> (Nama Gudang) -> Internal Transfer**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data internal transfer yang akan dikonfirmasi. Abaikan jika data sudah dibuka.
 3. Klik tombol **Mark As Todo** pada bagian atas-kiri form.
 

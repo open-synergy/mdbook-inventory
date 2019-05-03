@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data waste yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/waste/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart waste.
 
 ## B. LANGKAH KERJA

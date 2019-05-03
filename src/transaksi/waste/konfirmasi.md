@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data waste yang akan dikonfirmasi harus memiliki status **Draft**.
+
+![](../../img/waste/status-draft.png)
+
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi waste.
 
 ## B. LANGKAH KERJA

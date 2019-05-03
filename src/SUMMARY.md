@@ -130,6 +130,7 @@
         - [Mengecek Ketersediaan Waste](./transaksi/waste/check.md)
         - [Memaksa Ketersediaan Waste](./transaksi/waste/force.md)
         - [Merealisasi Waste](./transaksi/waste/transfer.md)
+        - [Merealisasi Produk Pada Waste](./transaksi/waste/transfer-produk.md)
         - [Membatalkan Waste](./transaksi/waste/batal.md)
         - [Merestart Waste](./transaksi/waste/restart.md)
     - [Scrap](./transaksi/scrap.md)

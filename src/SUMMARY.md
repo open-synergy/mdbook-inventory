@@ -106,6 +106,7 @@
         - [Mengecek Ketersediaan Pick](./transaksi/pick/check.md)
         - [Memaksa Ketersediaan Pick](./transaksi/pick/force.md)
         - [Merealisasi Pick](./transaksi/pick/transfer.md)
+        - [Merealisasi Produk Pada Pick](./transaksi/pick/transfer-produk.md)
         - [Membatalkan Pick](./transaksi/pick/batal.md)
         - [Merestart Pick](./transaksi/pick/restart.md)
     - [Pack](./transaksi/pack.md)

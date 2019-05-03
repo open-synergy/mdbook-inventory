@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data pick yang akan dikonfirmasi harus memiliki status **Draft**.
+
+![](../../img/pick/status-draft.png)
+
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi pick.
 
 ## B. LANGKAH KERJA

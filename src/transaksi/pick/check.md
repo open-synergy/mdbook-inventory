@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data pick yang akan dicek harus memiliki status **Waiting Availability**.
+
+![](../../img/pick/status-waiting.png)
+
 * User yang akan mengecek harus memiliki akses untuk mengecek pick.
 
 ## B. LANGKAH KERJA
@@ -14,12 +17,16 @@ pada menu yang dimaksud.
 
 ![](../../img/pick/tombol-check.png)
 
-4. Klik tombol **Force Availability** pada bagian atas-tengah form apabila user ingin mengabaikan proses pengecekan.
-
-![](../../img/pick/tombol-force.png)
-
 ## C. OUTPUT
 
-* Status dari pick akan berubah menjadi **Ready To Transfer**
+* Status dari Pick akan berubah menjadi **Ready To Transfer** apabila semua produk tersedia.
 
 ![](../../img/pick/status-ready-to-transfer.png)
+
+* Status dari Pick akan berubah menjadi **Partially Available** apabila hanya sebagian produk yang tersedia.
+
+![](../../img/pick/status-partial.png)
+
+* Status dari Pick tetap **Waiting Availability** apabila produk tidak tersedia.
+
+![](../../img/pick/status-waiting.png)

@@ -1,6 +1,9 @@
 # Merestart Pick
 
 * Data pick yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/pick/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart pick.
 
 ## B. LANGKAH KERJA

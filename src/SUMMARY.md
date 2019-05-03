@@ -169,6 +169,7 @@
         - [Mengecek Ketersediaan Delivery Order](./transaksi/delivery-order/check.md)
         - [Memaksa Ketersediaan Delivery Order](./transaksi/delivery-order/force.md)
         - [Merealisasi Delivery Order](./transaksi/delivery-order/transfer.md)
+        - [Merealisasi Produk Pada Delivery Order](./transaksi/delivery-order/transfer-produk.md)
         - [Membuat Customer Invoice Dari Delivery Order](./transaksi/delivery-order/invoice.md)
         - [Membatalkan Delivery Order](./transaksi/delivery-order/batal.md)
         - [Merestart Delivery Order](./transaksi/delivery-order/restart.md)

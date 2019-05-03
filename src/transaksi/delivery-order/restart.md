@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data delivery order yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/delivery-order/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart delivery order.
 
 ## B. LANGKAH KERJA

@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data pack yang akan direstart harus memiliki status **Cancelled**.
+
+![](../../img/pack/status-cancel.png)
+
 * User yang akan merestart harus memiliki akses untuk merestart pack.
 
 ## B. LANGKAH KERJA

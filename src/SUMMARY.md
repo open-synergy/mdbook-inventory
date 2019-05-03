@@ -115,6 +115,7 @@
         - [Mengecek Ketersediaan Pack](./transaksi/pack/check.md)
         - [Memaksa Ketersediaan Pack](./transaksi/pack/force.md)
         - [Merealisasi Pack](./transaksi/pack/transfer.md)
+        - [Merealisasi Produk Pada Pack](./transaksi/pack/transfer-produk.md)
         - [Membatalkan Pack](./transaksi/pack/batal.md)
         - [Merestart Pack](./transaksi/pack/restart.md)
     - [Waste](./transaksi/waste.md)

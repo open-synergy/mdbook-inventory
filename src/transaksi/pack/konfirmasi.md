@@ -3,6 +3,9 @@
 ## A. INPUT
 
 * Data pack yang akan dikonfirmasi harus memiliki status **Draft**.
+
+![](../../img/pack/status-draft.png)
+
 * User yang akan mengkonfirmasi harus memiliki akses untuk mengkonfirmasi pack.
 
 ## B. LANGKAH KERJA

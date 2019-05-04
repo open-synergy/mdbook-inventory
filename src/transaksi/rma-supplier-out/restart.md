@@ -1,6 +1,5 @@
 # Merestart RMA Supplier Out
 
-
 ## A. INPUT
 
 * Data RMA supplier out yang akan direstart harus memiliki status **Cancelled**.

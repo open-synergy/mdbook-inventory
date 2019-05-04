@@ -218,6 +218,7 @@
         - [Mengecek Ketersediaan RMA Customer Out](./transaksi/rma-customer-out/check.md)
         - [Memaksa Ketersediaan RMA Customer Out](./transaksi/rma-customer-out/force.md)
         - [Merealisasi RMA Customer Out](./transaksi/rma-customer-out/transfer.md)
+        - [Merealisasi Produk Pada RMA Customer Out](./transaksi/rma-customer-out/transfer-produk.md)
         - [Membatalkan RMA Customer Out](./transaksi/rma-customer-out/batal.md)
         - [Merestart RMA Customer Out](./transaksi/rma-customer-out/restart.md)
     - [Adjustment Out](./transaksi/adjustment-out.md)

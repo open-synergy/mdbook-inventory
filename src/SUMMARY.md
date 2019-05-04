@@ -200,6 +200,7 @@
         - [Mengecek Ketersediaan Customer Promotion](./transaksi/customer-promotion/check.md)
         - [Memaksa Ketersediaan Customer Promotion](./transaksi/customer-promotion/force.md)
         - [Merealisasi Customer Promotion](./transaksi/customer-promotion/transfer.md)
+        - [Merealisasi Produk Pada Customer Promotion](./transaksi/customer-promotion/transfer-produk.md)
         - [Membatalkan Customer Promotion](./transaksi/customer-promotion/batal.md)
         - [Merestart Customer Promotion](./transaksi/customer-promotion/restart.md)
     - [RMA Supplier Out](./transaksi/rma-supplier-out.md)

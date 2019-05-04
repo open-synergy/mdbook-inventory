@@ -185,6 +185,7 @@
         - [Mengecek Ketersediaan Interwarehouse Out](./transaksi/interwarehouse-out/check.md)
         - [Memaksa Ketersediaan Interwarehouse Out](./transaksi/interwarehouse-out/force.md)
         - [Merealisasi Interwarehouse Out](./transaksi/interwarehouse-out/transfer.md)
+        - [Merealisasi Produk Pada Interwarehouse Out](./transaksi/interwarehouse-out/transfer-produk.md)
         - [Membatalkan Interwarehouse Out](./transaksi/interwarehouse-out/batal.md)
         - [Merestart Interwarehouse Out](./transaksi/interwarehouse-out/restart.md)
     - [Customer Promotion](./transaksi/customer-promotion.md)

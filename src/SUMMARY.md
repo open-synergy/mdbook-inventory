@@ -209,6 +209,7 @@
         - [Mengecek Ketersediaan RMA Supplier Out](./transaksi/rma-supplier-out/check.md)
         - [Memaksa Ketersediaan RMA Supplier Out](./transaksi/rma-supplier-out/force.md)
         - [Merealisasi RMA Supplier Out](./transaksi/rma-supplier-out/transfer.md)
+        - [Merealisasi Produk Pada RMA Supplier Out](./transaksi/rma-supplier-out/transfer-produk.md)
         - [Membatalkan RMA Supplier Out](./transaksi/rma-supplier-out/batal.md)
         - [Merestart RMA Supplier Out](./transaksi/rma-supplier-out/restart.md)    
     - [RMA Customer Out](./transaksi/rma-customer-out.md)

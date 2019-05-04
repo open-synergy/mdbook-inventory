@@ -13,7 +13,7 @@
 1. Buka menu **Warehouse -> Operation -> (Nama Gudang) -> RMA Supplier In**. Abaikan jika sudah berada
 pada menu yang dimaksud.
 2. Buka data RMA supplier in yang akan dicek. Abaikan jika data sudah dibuka.
-3. Klik tombol **Check Availability** pada bagian atas-kiri form apabila user ingin melakukan pengecekan.
+3. Klik tombol **Check Availability** pada bagian atas-kiri form.
 
 ![](../../img/rma-supplier-in/tombol-check.png)
 

@@ -233,6 +233,7 @@
         - [Mengecek Ketersediaan Adjustment Out](./transaksi/adjustment-out/check.md)
         - [Memaksa Ketersediaan Adjustment Out](./transaksi/adjustment-out/force.md)
         - [Merealisasi Adjustment Out](./transaksi/adjustment-out/transfer.md)
+        - [Merealisasi Produk Pada Adjustment Out](./transaksi/adjustment-out/transfer-produk.md)
         - [Membatalkan Adjustment Out](./transaksi/adjustment-out/batal.md)
         - [Merestart Adjustment Out](./transaksi/adjustment-out/restart.md)
     - [Other Delivery](./transaksi/other-delivery.md)

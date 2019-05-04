@@ -7,8 +7,7 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Warehouse -> Operation -> (Nama Gudang) -> Adjustment Out**. Abaikan jika sudah berada
-pada menu yang dimaksud.
+1. Buka menu **Warehouse -> Operation -> (Nama Gudang) -> Adjustment Out**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data adjustment out yang akan dibatalkan. Abaikan jika data sudah dibuka.
 3. Klik tombol **Cancel Transfer** pada bagian atas-kiri form.
 

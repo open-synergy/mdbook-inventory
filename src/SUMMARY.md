@@ -248,6 +248,7 @@
         - [Mengecek Ketersediaan Other Delivery](./transaksi/other-delivery/check.md)
         - [Memaksa Ketersediaan Other Delivery](./transaksi/other-delivery/force.md)
         - [Merealisasi Other Delivery](./transaksi/other-delivery/transfer.md)
+        - [Merealisasi Produk Pada Other Delivery](./transaksi/other-delivery/transfer-produk.md)
         - [Membatalkan Other Delivery](./transaksi/other-delivery/batal.md)
         - [Merestart Other Delivery](./transaksi/other-delivery/restart.md)
     - [Supplier Shipping](./transaksi/supplier-shipping.md)

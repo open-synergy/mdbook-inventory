@@ -10,8 +10,6 @@
 - [Memodifikasi Produk Pada Donation In](./donation-in/produk-modifikasi.md)
 - [Menghapus Produk Pada Donation In](./donation-in/produk-hapus.md)
 - [Konfirmasi Donation In](./donation-in/konfirmasi.md)
-- [Mengecek Ketersediaan Donation In](./donation-in/check.md)
-- [Memaksa Ketersediaan Donation In](./donation-in/force.md)
 - [Merealisasi Donation In](./donation-in/transfer.md)
 - [Merealisasi Produk Pada Donation In](./donation-in/transfer-produk.md)
 - [Membatalkan Donation In](./donation-in/batal.md)

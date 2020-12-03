@@ -2,7 +2,7 @@
 
 ## A. INPUT
 
-* Data lease customer in yang akan dibatalkan dapat memiliki status **Draft**, atau **Waiting Availability**, atau **Partially Available**, atau **Ready To Transfer**.
+* Data lease customer in yang akan dibatalkan dapat memiliki status **Draft**, atau **Ready To Transfer**.
 * User yang akan membatalkan harus memiliki akses untuk membatalkan lease customer in.
 
 ## B. LANGKAH KERJA

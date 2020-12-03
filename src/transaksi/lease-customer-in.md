@@ -10,8 +10,6 @@
 - [Memodifikasi Produk Pada Lease Customer In](./lease-customer-in/produk-modifikasi.md)
 - [Menghapus Produk Pada Lease Customer In](./lease-customer-in/produk-hapus.md)
 - [Konfirmasi Lease Customer In](./lease-customer-in/konfirmasi.md)
-- [Mengecek Ketersediaan Lease Customer In](./lease-customer-in/check.md)
-- [Memaksa Ketersediaan Lease Customer In](./lease-customer-in/force.md)
 - [Merealisasi Lease Customer In](./lease-customer-in/transfer.md)
 - [Merealisasi Produk Pada Lease Customer In](./lease-customer-in/transfer-produk.md)
 - [Membatalkan Lease Customer In](./lease-customer-in/batal.md)

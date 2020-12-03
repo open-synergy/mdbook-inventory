@@ -18,6 +18,6 @@
 
 ## C. OUTPUT
 
-* Status dari lease customer in akan berubah menjadi **Waiting Availability**.
+* Status dari lease customer in akan berubah menjadi **Ready to Transfer**.
 
-![](../../img/lease-customer-in/status-waiting-availability.png)
+![](../../img/lease-customer-in/status-ready-to-transfer.png)

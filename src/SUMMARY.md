@@ -326,7 +326,7 @@
         - [Menambah Produk Pada Lease Customer Out](./transaksi/lease-customer-out/produk-tambah.md)
         - [Memodifikasi Produk Pada Lease Customer Out](./transaksi/lease-customer-out/produk-modifikasi.md)
         - [Menghapus Produk Pada Lease Customer Out](./transaksi/lease-customer-out/produk-hapus.md)
-        - [Konfirmasi Lease Customer Out](./transaksi/lease-customer-out/konfileasesi.md)
+        - [Konfirmasi Lease Customer Out](./transaksi/lease-customer-out/konfirmasi.md)
         - [Mengecek Ketersediaan Lease Customer Out](./transaksi/lease-customer-out/check.md)
         - [Memaksa Ketersediaan Lease Customer Out](./transaksi/lease-customer-out/force.md)
         - [Merealisasi Lease Customer Out](./transaksi/lease-customer-out/transfer.md)

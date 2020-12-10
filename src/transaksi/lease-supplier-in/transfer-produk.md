@@ -1,6 +1,6 @@
 # Merealisasi Produk Pada Lease Supplier In
 
-*(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Lease Supplier In](./membuat.md), atau (2) [Memodifikasi Lease Supplier In](./modifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
+*(Instruksi kerja ini merupakan sub instruksi dari [Merealisasi Lease Supplier In](./transfer.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
 
 ## A. INPUT
 
